@@ -56,35 +56,62 @@
 
 <br/>
 
+
 <details open>
 <summary><b>📌 Featured Projects</b></summary>
 
-<div align="left">
-<h4>🏋️ FitnessLife</h4>
-<b>Tech:</b> Spring Boot · Keycloak · React.js · MongoDB · PostgreSQL<br/>
-<ul>
-  <li>Distributed microservices architecture with AI-based workout suggestions via <b>Google Gemini API</b>.</li>
-  <li>Implemented <b>OAuth2 Security</b>, RabbitMQ messaging, Eureka service discovery, and Spring Cloud Gateway.</li>
-</ul>
-🔗 <a href="https://github.com/Nikhilratoliya6/FitnessMicroServices" target="_blank">Source Code</a>
-<hr/>
-
-<h4>📅 QuestChain</h4>
-<b>Tech:</b> MERN Stack<br/>
-<ul>
-  <li>Full-stack habit tracker with <b>JWT Authentication</b>, real-time progress tracking, and SEO optimization.</li>
-  <li>Acquired <b>50+ active users</b> post-launch.</li>
-</ul>
-🔗 <a href="https://questchain.pages.dev" target="_blank">Live Demo</a>
-<hr/>
-
-<h4>🌍 SustainHub</h4>
-<b>Tech:</b> MERN Stack · Cloudinary<br/>
-<ul>
-  <li>Real-time issue reporting with <b>Geoapify API</b> and gamified rewards system.</li>
-  <li>Increased user engagement by <b>40%</b> with an interactive admin dashboard.</li>
-</ul>
-🔗 <a href="https://sustainhub.pages.dev" target="_blank">Live Demo</a>
+<div align="center">
+  <table>
+    <tr>
+      <td width="320px" valign="top">
+        <img src="https://img.icons8.com/color/96/000000/dumbbell.png" width="48"/>
+        <h3 align="center">🏋️ FitnessLife</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Keycloak-0066A3?style=flat-square&logo=keycloak&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
+        <ul>
+          <li>Distributed microservices architecture with AI-based workout suggestions via <b>Google Gemini API</b>.</li>
+          <li>Implemented <b>OAuth2 Security</b>, RabbitMQ messaging, Eureka service discovery, and Spring Cloud Gateway.</li>
+        </ul>
+        <p align="center">
+          🔗 <a href="https://github.com/Nikhilratoliya6/FitnessMicroServices" target="_blank"><b>Source Code</b></a>
+        </p>
+      </td>
+      <td width="320px" valign="top">
+        <img src="https://img.icons8.com/color/96/000000/calendar--v1.png" width="48"/>
+        <h3 align="center">📅 QuestChain</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERN-3FA037?style=flat-square&logo=react&logoColor=white"/>
+        </p>
+        <ul>
+          <li>Full-stack habit tracker with <b>JWT Authentication</b>, real-time progress tracking, and SEO optimization.</li>
+          <li>Acquired <b>50+ active users</b> post-launch.</li>
+        </ul>
+        <p align="center">
+          🔗 <a href="https://questchain.pages.dev" target="_blank"><b>Live Demo</b></a>
+        </p>
+      </td>
+      <td width="320px" valign="top">
+        <img src="https://img.icons8.com/color/96/000000/earth-planet.png" width="48"/>
+        <h3 align="center">🌍 SustainHub</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERN-3FA037?style=flat-square&logo=react&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+        </p>
+        <ul>
+          <li>Real-time issue reporting with <b>Geoapify API</b> and gamified rewards system.</li>
+          <li>Increased user engagement by <b>40%</b> with an interactive admin dashboard.</li>
+        </ul>
+        <p align="center">
+          🔗 <a href="https://sustainhub.pages.dev" target="_blank"><b>Live Demo</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 </details>
 
