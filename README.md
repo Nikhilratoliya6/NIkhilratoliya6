@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikhil+Ratoliya+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+%7C+AI+%7C+IoT+Security+" alt="Typing SVG" />
   
-  <img src="https://github.com/Nikhilratoliya6/Nikhilratoliya6/blob/main/assets/wave.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Nikhilratoliya6/Nikhilratoliya6/main/assets/wave.svg" width="100%"/>
   
   <p>
     <img src="https://img.shields.io/badge/B.Tech-IT%20with%20Business%20Informatics-blue?style=flat-square&logo=graduation-cap&logoColor=white"/>
@@ -63,52 +63,52 @@
 <div align="center">
   <table>
     <tr>
-      <td width="320px" valign="top">
-        <img src="https://img.icons8.com/color/96/000000/dumbbell.png" width="48"/>
-        <h3 align="center">🏋️ FitnessLife</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Keycloak-0066A3?style=flat-square&logo=keycloak&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-        </p>
-        <ul>
-          <li>Distributed microservices architecture with AI-based workout suggestions via <b>Google Gemini API</b>.</li>
-          <li>Implemented <b>OAuth2 Security</b>, RabbitMQ messaging, Eureka service discovery, and Spring Cloud Gateway.</li>
-        </ul>
-        <p align="center">
-          🔗 <a href="https://github.com/Nikhilratoliya6/FitnessMicroServices" target="_blank"><b>Source Code</b></a>
-        </p>
+      <td width="340px" valign="top">
+        <div align="center" style="background: #f8fafc; border-radius: 18px; box-shadow: 0 4px 24px #36bcf733; padding: 24px 16px; margin: 8px; transition: transform .2s;">
+          <img src="https://img.icons8.com/color/96/000000/dumbbell.png" width="48"/>
+          <h3>🏋️ FitnessLife</h3>
+          <p>
+            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Keycloak-0066A3?style=flat-square&logo=keycloak&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+          </p>
+          <ul align="left">
+            <li>Distributed microservices architecture with AI-based workout suggestions via <b>Google Gemini API</b>.</li>
+            <li>Implemented <b>OAuth2 Security</b>, RabbitMQ messaging, Eureka service discovery, and Spring Cloud Gateway.</li>
+          </ul>
+          <a href="https://github.com/Nikhilratoliya6/FitnessMicroServices" target="_blank"><b>🔗 Source Code</b></a>
+        </div>
       </td>
-      <td width="320px" valign="top">
-        <img src="https://img.icons8.com/color/96/000000/calendar--v1.png" width="48"/>
-        <h3 align="center">📅 QuestChain</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/MERN-3FA037?style=flat-square&logo=react&logoColor=white"/>
-        </p>
-        <ul>
-          <li>Full-stack habit tracker with <b>JWT Authentication</b>, real-time progress tracking, and SEO optimization.</li>
-          <li>Acquired <b>50+ active users</b> post-launch.</li>
-        </ul>
-        <p align="center">
-          🔗 <a href="https://questchain.pages.dev" target="_blank"><b>Live Demo</b></a>
-        </p>
+      <td width="340px" valign="top">
+        <div align="center" style="background: #f8fafc; border-radius: 18px; box-shadow: 0 4px 24px #36bcf733; padding: 24px 16px; margin: 8px; transition: transform .2s;">
+          <img src="https://img.icons8.com/color/96/000000/calendar--v1.png" width="48"/>
+          <h3>📅 QuestChain</h3>
+          <p>
+            <img src="https://img.shields.io/badge/MERN-3FA037?style=flat-square&logo=react&logoColor=white"/>
+          </p>
+          <ul align="left">
+            <li>Full-stack habit tracker with <b>JWT Authentication</b>, real-time progress tracking, and SEO optimization.</li>
+            <li>Acquired <b>50+ active users</b> post-launch.</li>
+          </ul>
+          <a href="https://questchain.pages.dev" target="_blank"><b>🔗 Live Demo</b></a>
+        </div>
       </td>
-      <td width="320px" valign="top">
-        <img src="https://img.icons8.com/color/96/000000/earth-planet.png" width="48"/>
-        <h3 align="center">🌍 SustainHub</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/MERN-3FA037?style=flat-square&logo=react&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-        </p>
-        <ul>
-          <li>Real-time issue reporting with <b>Geoapify API</b> and gamified rewards system.</li>
-          <li>Increased user engagement by <b>40%</b> with an interactive admin dashboard.</li>
-        </ul>
-        <p align="center">
-          🔗 <a href="https://sustainhub.pages.dev" target="_blank"><b>Live Demo</b></a>
-        </p>
+      <td width="340px" valign="top">
+        <div align="center" style="background: #f8fafc; border-radius: 18px; box-shadow: 0 4px 24px #36bcf733; padding: 24px 16px; margin: 8px; transition: transform .2s;">
+          <img src="https://img.icons8.com/color/96/000000/earth-planet.png" width="48"/>
+          <h3>🌍 SustainHub</h3>
+          <p>
+            <img src="https://img.shields.io/badge/MERN-3FA037?style=flat-square&logo=react&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+          </p>
+          <ul align="left">
+            <li>Real-time issue reporting with <b>Geoapify API</b> and gamified rewards system.</li>
+            <li>Increased user engagement by <b>40%</b> with an interactive admin dashboard.</li>
+          </ul>
+          <a href="https://sustainhub.pages.dev" target="_blank"><b>🔗 Live Demo</b></a>
+        </div>
       </td>
     </tr>
   </table>
