@@ -15,7 +15,7 @@
 <br/>
 
 <details open>
-<summary><b>🚀 About Me</b></summary>
+<summary><b><span style="font-size:2rem;">🚀 About Me</span></b></summary>
 
 <blockquote>
 <b>I’m a passionate software developer</b> with a love for building scalable web applications, exploring <b>IoT security</b>, and solving complex problems. I enjoy experimenting with modern backend architectures and integrating AI-powered solutions into products.
@@ -25,7 +25,7 @@
 <br/>
 
 <details open>
-<summary><b>🛠 Tech Stack</b></summary>
+<summary><b><span style="font-size:2rem;">🛠 Tech Stack</span></b></summary>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,java,sql,react,jquery,html,css,nodejs,express,spring,flask,mongodb,mysql,postgres,firebase,azure,docker,git,cloudinary"/>
@@ -43,7 +43,7 @@
 <br/>
 
 <details open>
-<summary><b>💼 Work Experience</b></summary>
+<summary><b><span style="font-size:2rem;">💼 Work Experience</span></b></summary>
 
 <div align="left">
 <b>🔹 Research Intern – C3iHub (IIT Kanpur)</b> <i>(May 2025 – Present)</i>
@@ -58,7 +58,7 @@
 
 
 <details open>
-<summary><b>📌 Featured Projects</b></summary>
+<summary><b><span style="font-size:2rem;">📌 Featured Projects</span></b></summary>
 
 <div align="center">
   <table>
@@ -118,7 +118,7 @@
 <br/>
 
 <details open>
-<summary><b>🏆 Achievements</b></summary>
+<summary><b><span style="font-size:2rem;">🏆 Achievements</span></b></summary>
 
 <ul>
   <li><b>AIR 189</b> – LeetCode Biweekly Contest 161 (2025)</li>
@@ -131,7 +131,7 @@
 <br/>
 
 <details open>
-<summary><b>🤝 Let's Connect</b></summary>
+<summary><b><span style="font-size:2rem;">🤝 Let's Connect</span></b></summary>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-ratoliya-5b2999258" target="_blank">
